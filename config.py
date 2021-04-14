@@ -1,4 +1,4 @@
-API_KEY = "AIzaSyAM6rMvNGdyCaJlhXvOjb_rYwqpzzKSGZ8"
+API_KEY = ""
 
 COMPONENT_RESTRICTIONS = { 'country': 'CA'}
 
